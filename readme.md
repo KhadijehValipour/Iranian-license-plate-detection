@@ -1,4 +1,4 @@
-# Iranian license plate detection using YOLO8(ultralytics)
+# Iranian license plate detection using YOLOv8(ultralytics)
 
 ![Alt text](assents/image.png)
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-Using Yolo, we want to detect Iranian license plates. 
+Using Yolov8, we want to detect Iranian license plates. 
 Applications of detecting car license plates :
 1. Effective traffic law enforcement.
 2. Vehicle theft prevention.
